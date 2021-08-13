@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=efl_python_sample
+Name[fr]=efl_python_sample
+GenericName=efl_python_sample
+Comment=Efl Application efl_python_sample
+Icon=efl_python_sample
+TryExec=efl_python_sample
+Exec=efl_python_sample
+Categories=Development;Utility;
